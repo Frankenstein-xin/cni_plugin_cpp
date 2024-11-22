@@ -1,5 +1,0 @@
-/root/source/cni_plugin_cpp/build/CMakeFiles/rebuild_cache.dir
-/root/source/cni_plugin_cpp/build/CMakeFiles/edit_cache.dir
-/root/source/cni_plugin_cpp/build/CMakeFiles/cni_plugin_cpp.dir
-/root/source/cni_plugin_cpp/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
-/root/source/cni_plugin_cpp/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
